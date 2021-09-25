@@ -1,4 +1,4 @@
-# graphile-migrate-nix
+# postgraphile-nix
 
 Install [postgraphile](https://github.com/graphile/postgraphile) using the Nix package manager.
 
