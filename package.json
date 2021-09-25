@@ -1,0 +1,7 @@
+{
+    "name": "postgraphile-nix",
+    "version": "4.12.4",
+    "dependencies": {
+        "postgraphile": "4.12.4"
+    }
+}
